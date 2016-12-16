@@ -22,3 +22,5 @@
 ## Reflections
   I was quite intrigued by this challenge, but dissapointed with my inability to get to a solution.
   This time, I've allowed myself patience and confidence to get to a solution!
+
+  In revisiting the challenge, I've decided to introduce a School class, which I'm thinking should hold a grade order, holds the collection of student objects, and runs larger class reporting. That way, the purpose of the Standards class is solely to hold and implement methods that have to do with the domain order, and the Student Class is holding a student's name and grade info, and determining an individual student's next steps in their work.
