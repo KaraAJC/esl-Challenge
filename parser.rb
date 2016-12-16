@@ -5,4 +5,8 @@ class Parser
     CSV.read(file)
   end
 
+  def write_file(array)
+
+  end
+
 end
